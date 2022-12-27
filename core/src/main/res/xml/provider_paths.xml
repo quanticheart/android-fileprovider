@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?><!--suppress ALL -->
+<paths>
+
+    <root-path
+        name="root"
+        path="./" />
+
+    <!--    Context.getFilesDir()   /data/user/0/com.quanticheart.fileprovider/files-->
+    <files-path
+        name="files"
+        path="./" />
+
+    <!--    Context.getFilesDir()   /data/user/0/com.quanticheart.fileprovider/cache-->
+    <cache-path
+        name="cache"
+        path="./" />
+
+    <!--    Environment.getExternalStorageDirectory()   /storage/emulated/0-->
+    <external-path
+        name="name"
+        path="./" />
+
+    <!--    Context.getExternalFilesDir(null)   /storage/emulated/0/Android/data/com.quanticheart.fileprovider/files-->
+    <external-files-path
+        name="name"
+        path="./" />
+
+    <!--    Context.getExternalCacheDir()   /storage/emulated/0/Android/data/com.quanticheart.fileprovider/cache-->
+    <external-cache-path
+        name="name"
+        path="./" />
+
+    <!--    Context.getExternalMediaDirs()   /storage/emulated/0/Android/media/com.quanticheart.fileprovider-->
+    <external-media-path
+        name="name"
+        path="./" />
+</paths>
